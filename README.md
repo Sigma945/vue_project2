@@ -1,24 +1,13 @@
-# 202402
+# 專案: 動態網頁實作(模擬商品介紹與購物導流網頁)
 
-## Project setup
-```
-npm install
-```
+## 專案環境  
+* 前端使用框架: vue3 (環境建置使用 vue cli)
+* 後端使用框架: laravel  
+* 資料庫: MySQL 並以phpMyAdmin做管理  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 專案說明  
+* 練習框架實作  
+* 練習後端傳資料至前端呈現
+* 練習RWD響應式網站(Bootstrap)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 專案內容
